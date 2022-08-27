@@ -8,6 +8,7 @@ console.log (code_hash);
 console.log('The IPADDRESS is:', process.env.IP);
 console.log('The message is:', process.env.AZ);
 console.log('The hash is: %s', code_hash);
+console.log('test');
 
 var ipaddress = process.env.IP;
 var message = process.env.AZ;
